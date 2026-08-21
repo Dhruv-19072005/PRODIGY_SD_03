@@ -58,7 +58,7 @@ Enter email address: dhruv@example.com
 
 ## 🎥 Demo
 
-[LinkedIn Post Link](PASTE_YOUR_LINKEDIN_LINK_HERE)
+https://lnkd.in/p/dYuCzYyf
 
 ## 🏷️ Tags
 

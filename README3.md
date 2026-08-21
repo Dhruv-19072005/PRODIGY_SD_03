@@ -43,8 +43,8 @@ Enter your choice (1-5): 1
 
 --- Add New Contact ---
 Enter name: Dhruv Patel
-Enter phone number: 9876543210
-Enter email address: dhruv@example.com
+Enter phone number: 9054716064
+Enter email address: pateldhruv190705@gmail.com
 
 ✅ Contact 'Dhruv Patel' added successfully!
 ```
